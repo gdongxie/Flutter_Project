@@ -91,7 +91,7 @@ class MyOSCClientState extends State<MyOSCClient> {
     );
     return new MaterialApp(
       theme: new ThemeData(
-          //设置页面的主题色
+        //设置页面的主题色
           primaryColor: Colors.blueAccent),
       home: new Scaffold(
         //设置AppBar标题
